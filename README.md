@@ -25,7 +25,7 @@ sudo pacman -Syyu
 sudo mhwd -r pci video-nvidia
 sudo nano /etc/mkinitcpio.conf
 ```
-удалить слово nouveau
+удалить слово nouveau и, если не помогло, то:
 
 
 ```shell
