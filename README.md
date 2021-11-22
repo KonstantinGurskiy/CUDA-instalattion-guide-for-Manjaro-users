@@ -42,4 +42,5 @@ sudo pacman -S xserver-xorg-video-vesa
 
 ```shell
 sudo pacman -R cudnn cuda
+sudo reboot
 ```
